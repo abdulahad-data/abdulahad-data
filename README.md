@@ -2,7 +2,7 @@
 
 # 💻  @abdulahad-data
 
-> **System Status:** Online | **Current Objective:** Actively seeking Data Analyst roles 🚀 
+**Current Objective:** Actively seeking Data Analyst roles 🚀 
 
 Welcome to my data workspace. I am a recent MBA graduate (Finance & Marketing) successfully transitioning into data analytics. I leverage my strong business acumen to bridge the gap between raw data and strategic decisions. My focus is on extracting actionable intelligence, streamlining processes, and building scalable models that can drive growth across any industry.
 
