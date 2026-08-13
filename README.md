@@ -26,9 +26,10 @@ Welcome to my data workspace. I am a recent MBA graduate (Finance & Marketing) s
 
 ### 📂 Active Directory (Featured Projects)
 
-[![Crime Analytics](https://github-stats-extended.vercel.app/api/pin/?username=abdulahad-data&repo=Law-Enforcement-Crime-Analytics&theme=tokyonight&v=1)](https://github.com/abdulahad-data/Law-Enforcement-Crime-Analytics)
 [![Sales Analysis](https://github-stats-extended.vercel.app/api/pin/?username=abdulahad-data&repo=Retail-Sales-Time-Series-Analysis&theme=tokyonight&v=1)](https://github.com/abdulahad-data/Retail-Sales-Time-Series-Analysis)
 [![Customer Segmentation](https://github-stats-extended.vercel.app/api/pin/?username=abdulahad-data&repo=Marketing-Customer-Segmentation-Stats&theme=tokyonight&v=1)](https://github.com/abdulahad-data/Marketing-Customer-Segmentation-Stats)
+[![Crime Analytics](https://github-stats-extended.vercel.app/api/pin/?username=abdulahad-data&repo=Law-Enforcement-Crime-Analytics&theme=tokyonight&v=1)](https://github.com/abdulahad-data/Law-Enforcement-Crime-Analytics)
+
 ---
 ### 📊 System Metrics
 
